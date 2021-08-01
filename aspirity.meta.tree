@@ -1,1 +1,2 @@
 pack restmock git \https://github.com/aspirity-ru/aspirity_restmock
+pack lib git \https://github.com/aspirity-ru/aspirity_lib
